@@ -8,4 +8,4 @@ s1.mathGrade = 85;
 s1.fenGrade = 95;
 s1.language = 'English';
 
-system.debug(s1ogrenci );
+system.debug(s1 );

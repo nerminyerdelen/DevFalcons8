@@ -3,6 +3,7 @@ public class DmlDemo {
         Account acc = new account();
         //set field values
         acc.Name = 'SoftInnovas';
+       // acc.Active__c = 'yes'; //if needed
 
 
         //Insert

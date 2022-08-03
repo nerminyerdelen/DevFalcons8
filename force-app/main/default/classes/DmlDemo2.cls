@@ -70,5 +70,6 @@ public class DmlDemo2 {
         if (!listAccount.isEmpty()) {
             insert listAccount;
         }
+        
     }
 }

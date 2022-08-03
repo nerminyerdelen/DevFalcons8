@@ -16,7 +16,7 @@ public class DmlDemo {
         sp.description__c = 'All 40% are great learners';
         insert sp;
         system.debug(sp);
-        
+        system.debug('Hello');
     }
 
   
